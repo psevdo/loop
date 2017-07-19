@@ -1,6 +1,7 @@
 {
   "name": "vendor_name/package_name",
   "description": "description_text",
+  "version": "1.0.0",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
@@ -8,10 +9,5 @@
       "name": "author's name",
       "email": "email@example.com"
     }
-  ],
-  "extra": {
-    "branch-alias": {
-      "dev-master": "1.0.x-dev"
-    }
-  }
+  ]
 }
