@@ -1,0 +1,11 @@
+{
+    "name": "psevdo/loop",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Shakirov Ruslan",
+            "email": "shakirov_rus@mail.ru"
+        }
+    ],
+    "require": {}
+}
