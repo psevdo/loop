@@ -1,7 +1,6 @@
 {
-  "name": "psevdo/loop",
-  "description": "description_text",
-  "version": "1.0.0",
+  "name": "Psevdo/loop",
+  "description": "Тестовый пакет",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
@@ -10,9 +9,11 @@
       "email": "shakirov_rus@mail.ru"
     }
   ],
-  "autoload": {
-    "psr-4": {
-      "Psevdo\\Loop\\": "src/"
+  "autoload": [
+    {
+      "psr-4": {
+        "Psevdo\\Loop\\" : "src/"
+      }
     }
-  }
+  ]
 }
