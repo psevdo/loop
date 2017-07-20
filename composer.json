@@ -12,7 +12,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Psevdo\\Loop\\": "src/"
+      "psevdo\\loop\\": "src/"
     }
   }
 }
