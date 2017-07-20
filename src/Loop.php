@@ -1,4 +1,7 @@
 <?php
+
+namespace psevdo\loop;
+
 class Loop {
 	private $amount = 0;
 
